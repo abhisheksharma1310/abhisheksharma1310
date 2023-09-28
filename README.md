@@ -54,17 +54,38 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma1310&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma1310&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 🔝 Featured Projects
+[comment]: ![](https://github-contributor-stats.vercel.app/api?username=abhisheksharma1310&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/little-lemon"><img src="https://i.ibb.co/0C6m8LH/little-lemon-mockup-nobg.png" alt="Little Lemon - A Restaurant app" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/little-lemon"><p align="center">Little Lemon - Restaurant App</p></a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/memories_blog"><img src="https://i.ibb.co/KhsKL4d/memories-mockup-nobg.png" alt="Memories Blog - A blog app" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/memories_blog"><p align="center">Memories Blog - Post sharing App</p></a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/chat-app-react"><img src="https://i.ibb.co/KbH8szY/chat-app-nobg.png" alt="chat-app-nobg" alt="Chat App - Real time chatting app" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/chat-app-react"><p align="center">Chat App - Real time chatting app</p></a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/box-office-react-app"><img src="https://i.ibb.co/WfXbbpv/box-office-nobg.png" alt="box office - shows and actors search app" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/box-office-react-app"><p align="center">Box Office - Shows and actors search app</p></a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/task-management-app"><img src="https://i.ibb.co/K0LkDFn/task-management-nobg.png" alt="Task Management app" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/task-management-app"><p align="center">Task Management app</p></a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhisheksharma1310&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhisheksharma1310&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksharma1310/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@abhisheksharma131098) 
-
-
----
