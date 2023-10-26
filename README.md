@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏿‍💻I'm currently working on front-end web development.<br>👯I'm looking to collaborate on front-end web development.<br>🤝I'm looking for help with developing a Sass platform for learning skills.<br>🌱I'm currently learning advanced stuff in web development.<br>💬Ask me about web development.<br>📚I love to read and write tech articles.
+👨🏿‍💻I'm currently working on web development projects.<br>👯I'm looking to collaborate on web development projects.<br>🤝I'm looking for help with developing a Sass platform.<br>🌱I'm currently learning advanced stuff in web development.<br>💬Ask me about web development.<br>📚I love to read and write tech articles.
 
 # 🛠️ Skills:
 ## Languages
@@ -56,6 +56,12 @@
 
 # 🔝 Featured Projects
 [comment]: ![](https://github-contributor-stats.vercel.app/api?username=abhisheksharma1310&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+ <a href="https://github.com/abhisheksharma1310/abhisheksharma1310.github.io"><img src="https://i.ibb.co/N9z8LsL/portfolio-mockup-rbg.png" alt="Portfolio Website using React" width="600" height="300"> <p></p></a>
+  <a href="https://github.com/abhisheksharma1310/abhisheksharma1310.github.io"><p align="center">Portfolio Website using React</p></a>
+</p>
+
 <p align="center">
  <a href="https://github.com/abhisheksharma1310/little-lemon"><img src="https://i.ibb.co/0C6m8LH/little-lemon-mockup-nobg.png" alt="Little Lemon - A Restaurant app" width="600" height="300"> <p></p></a>
   <a href="https://github.com/abhisheksharma1310/little-lemon"><p align="center">Little Lemon - Restaurant App</p></a>
