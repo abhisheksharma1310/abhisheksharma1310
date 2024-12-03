@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏿‍💻I'm currently working on web development projects.<br>👯I'm looking to collaborate on web development projects.<br>🤝I'm looking for help with developing a Sass platform.<br>🌱I'm currently learning advanced stuff in web development.<br>💬Ask me about web development.<br>📚I love to read and write tech articles.
+👨🏿‍💻I'm currently working on web development projects.<br>👯I'm looking to collaborate on web development projects.<br>🤝I'm developing some Sass platform related to the IoT.<br>🌱I'm currently learning advanced stuff in web development.<br>💬Ask me about web development.<br>📚I love to read and write tech articles.
 
 # 🛠️ Skills:
 ## Languages
@@ -56,6 +56,16 @@
 
 # 🔝 Featured Projects
 [comment]: ![](https://github-contributor-stats.vercel.app/api?username=abhisheksharma1310&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+ <a href="https://abhisheksharma1310.github.io/data-logger"><img src="https://i.ibb.co/dGRxd7N/data-logger-mockup-removebg-preview.png" alt="Data logger app" width="600" height="300"> <p></p></a>
+  <a href="https://abhisheksharma1310.github.io/data-logger"><p align="center">Data Logger MERN App</p></a>
+</p>
+
+<p align="center">
+ <a href="https://abhisheksharma1310.github.io/data-visualizer"><img src="https://i.ibb.co/5kN7B8n/Data-Visualization-app-mockup.png" alt="Data Visualizer Web App" width="600" height="300"> <p></p></a>
+  <a href="https://abhisheksharma1310.github.io/data-visualizer"><p align="center">Data Visualizer Web App</p></a>
+</p>
 
 <p align="center">
  <a href="https://github.com/abhisheksharma1310/abhisheksharma1310.github.io"><img src="https://i.ibb.co/N9z8LsL/portfolio-mockup-rbg.png" alt="Portfolio Website using React" width="600" height="300"> <p></p></a>
