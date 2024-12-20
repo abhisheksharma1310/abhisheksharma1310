@@ -103,5 +103,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksharma1310/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@abhisheksharma131098) 
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/abhisheksharma1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksharma1310" height="30" width="40" /></a>
+<a href="https://codesandbox.com/abhisheksharma131098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisheksharma131098" height="30" width="40" /></a>
+<a href="https://medium.com/@abhisheksharma131098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhisheksharma131098" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhisheksharm13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisheksharm13" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhisheksharma1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksharma1310" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhisheksharma131098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhisheksharma131098" height="30" width="40" /></a>
+</p>
